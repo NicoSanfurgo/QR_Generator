@@ -1,5 +1,5 @@
 # QR_Generator
 
-HTML, CSS, JS
+HTML, CSS, JS.
 
 Ajax about QR
